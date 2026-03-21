@@ -4,20 +4,17 @@
   <a href="https://github.com/piotrjura?tab=followers">
     <img src="https://img.shields.io/github/followers/piotrjura?label=Followers&style=social" alt="GitHub followers">
   </a>
-  <a href="https://github.com/piotr-jura-udemy?tab=followers">
-    <img src="https://img.shields.io/github/followers/piotr-jura-udemy?label=Udemy%20Profile%20Followers&style=social" alt="Udemy profile followers">
-  </a>
   <a href="https://github.com/piotrjura?tab=repositories">
     <img src="https://img.shields.io/github/stars/piotrjura?label=Stars&style=social" alt="GitHub stars">
   </a>
 </p>
 
 <p align="center">
-  Udemy instructor &bull; open-source developer &bull; building tools for developers and AI workflows
+  Open-source developer &bull; building tools for developers and AI workflows
 </p>
 
 <p align="center">
-  <a href="https://github.com/piotr-jura-udemy"><strong>Teaching profile &rarr; @piotr-jura-udemy</strong></a>
+  <a href="https://github.com/piotr-jura-udemy">Udemy course repos &rarr; <strong>@piotr-jura-udemy</strong></a>
 </p>
 
 ---
@@ -39,7 +36,7 @@
 
 ---
 
-## Open Source Projects
+## Projects
 
 ### Developer CLI Tools
 
@@ -54,55 +51,6 @@
 | Project | Description | Stars |
 |---------|-------------|-------|
 | [**nickel**](https://github.com/piotrjura/nickel) | Simple credit-based billing for the AI era | ![Stars](https://img.shields.io/github/stars/piotrjura/nickel?style=flat-square) |
-
----
-
-## Udemy Course Repos &nbsp;[![profile](https://img.shields.io/badge/@piotr--jura--udemy-333?style=flat-square&logo=github)](https://github.com/piotr-jura-udemy)
-
-Course source code lives on my [teaching profile](https://github.com/piotr-jura-udemy). Here are the highlights:
-
-### Laravel & PHP
-
-| Repo | Stars |
-|------|-------|
-| [laravel-cheat-sheet](https://github.com/piotr-jura-udemy/laravel-cheat-sheet) — Laravel Essentials cheat sheet | ![Stars](https://img.shields.io/github/stars/piotr-jura-udemy/laravel-cheat-sheet?style=flat-square) |
-| [laravel-course-2023](https://github.com/piotr-jura-udemy/laravel-course-2023) — Laravel 10 + Tailwind | ![Stars](https://img.shields.io/github/stars/piotr-jura-udemy/laravel-course-2023?style=flat-square) |
-| [laravel-course](https://github.com/piotr-jura-udemy/laravel-course) — Laravel Essentials full source | ![Stars](https://img.shields.io/github/stars/piotr-jura-udemy/laravel-course?style=flat-square) |
-| [laravel-vue-spa-course](https://github.com/piotr-jura-udemy/laravel-vue-spa-course) — Laravel + Vue.js SPA | ![Stars](https://img.shields.io/github/stars/piotr-jura-udemy/laravel-vue-spa-course?style=flat-square) |
-| [master-laravel-8](https://github.com/piotr-jura-udemy/master-laravel-8) — Master Laravel 8 | ![Stars](https://img.shields.io/github/stars/piotr-jura-udemy/master-laravel-8?style=flat-square) |
-| [master-laravel-vue-fullstack](https://github.com/piotr-jura-udemy/master-laravel-vue-fullstack) — Laravel + Vue 3 full-stack | ![Stars](https://img.shields.io/github/stars/piotr-jura-udemy/master-laravel-vue-fullstack?style=flat-square) |
-
-### Symfony & API Platform
-
-| Repo | Stars |
-|------|-------|
-| [symfony6-hands-on](https://github.com/piotr-jura-udemy/symfony6-hands-on) — Symfony 6 hands-on course | ![Stars](https://img.shields.io/github/stars/piotr-jura-udemy/symfony6-hands-on?style=flat-square) |
-| [symfony-4-basics](https://github.com/piotr-jura-udemy/symfony-4-basics) — Symfony 4 + API Platform | ![Stars](https://img.shields.io/github/stars/piotr-jura-udemy/symfony-4-basics?style=flat-square) |
-| [api-platform-react-js](https://github.com/piotr-jura-udemy/api-platform-react-js) — API Platform + React + Redux | ![Stars](https://img.shields.io/github/stars/piotr-jura-udemy/api-platform-react-js?style=flat-square) |
-
-### Vue.js & Nuxt
-
-| Repo | Stars |
-|------|-------|
-| [nuxt-course](https://github.com/piotr-jura-udemy/nuxt-course) — Nuxt 3 full-stack course | ![Stars](https://img.shields.io/github/stars/piotr-jura-udemy/nuxt-course?style=flat-square) |
-| [master-vue](https://github.com/piotr-jura-udemy/master-vue) — Master Vue.js | ![Stars](https://img.shields.io/github/stars/piotr-jura-udemy/master-vue?style=flat-square) |
-| [vue-course](https://github.com/piotr-jura-udemy/vue-course) — Vue 3 Composition API | ![Stars](https://img.shields.io/github/stars/piotr-jura-udemy/vue-course?style=flat-square) |
-
-### Node.js & NestJS
-
-| Repo | Stars |
-|------|-------|
-| [master-nest-js](https://github.com/piotr-jura-udemy/master-nest-js) — Master NestJS | ![Stars](https://img.shields.io/github/stars/piotr-jura-udemy/master-nest-js?style=flat-square) |
-| [nestjs-ultimate-masterclass](https://github.com/piotr-jura-udemy/nestjs-ultimate-masterclass) — NestJS Ultimate Masterclass | ![Stars](https://img.shields.io/github/stars/piotr-jura-udemy/nestjs-ultimate-masterclass?style=flat-square) |
-
-### Next.js & AI
-
-| Repo | Stars |
-|------|-------|
-| [nextjs-finance-app](https://github.com/piotr-jura-udemy/nextjs-finance-app) — Next.js finance app | ![Stars](https://img.shields.io/github/stars/piotr-jura-udemy/nextjs-finance-app?style=flat-square) |
-| [nextjs-blog-portfolio](https://github.com/piotr-jura-udemy/nextjs-blog-portfolio) — Next.js blog & portfolio | ![Stars](https://img.shields.io/github/stars/piotr-jura-udemy/nextjs-blog-portfolio?style=flat-square) |
-| [next-ecommerce](https://github.com/piotr-jura-udemy/next-ecommerce) — Next.js e-commerce | ![Stars](https://img.shields.io/github/stars/piotr-jura-udemy/next-ecommerce?style=flat-square) |
-| [cursorai-nextjs](https://github.com/piotr-jura-udemy/cursorai-nextjs) — Cursor AI + Next.js | ![Stars](https://img.shields.io/github/stars/piotr-jura-udemy/cursorai-nextjs?style=flat-square) |
 
 ---
 
