@@ -39,13 +39,6 @@
   </picture>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=piotrjura&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=10">
-    <img src="https://github-profile-trophy.vercel.app/?username=piotrjura&theme=flat&no-frame=true&no-bg=true&column=6&margin-w=10" alt="Trophies">
-  </picture>
-</p>
-
 ---
 
 ## Projects
