@@ -22,16 +22,28 @@
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piotrjura&show_icons=true&hide_border=true&bg_color=00000000&title_color=000&text_color=333&icon_color=666&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piotrjura&layout=compact&hide_border=true&bg_color=00000000&title_color=000&text_color=333&langs_count=8" height="170" alt="Top Languages">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=piotrjura&show_icons=true&hide_border=true&bg_color=00000000&title_color=fff&text_color=ccc&icon_color=888&include_all_commits=true&count_private=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=piotrjura&show_icons=true&hide_border=true&bg_color=00000000&title_color=000&text_color=333&icon_color=666&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=piotrjura&layout=compact&hide_border=true&bg_color=00000000&title_color=fff&text_color=ccc&langs_count=8">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piotrjura&layout=compact&hide_border=true&bg_color=00000000&title_color=000&text_color=333&langs_count=8" height="170" alt="Top Languages">
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=piotrjura&hide_border=true&background=FFFFFF00&ring=000&fire=000&currStreakLabel=333&sideLabels=333&currStreakNum=000&sideNums=000&dates=999" alt="GitHub Streak">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=piotrjura&hide_border=true&background=00000000&ring=fff&fire=fff&currStreakLabel=ccc&sideLabels=ccc&currStreakNum=fff&sideNums=fff&dates=888">
+    <img src="https://streak-stats.demolab.com/?user=piotrjura&hide_border=true&background=FFFFFF00&ring=000&fire=000&currStreakLabel=333&sideLabels=333&currStreakNum=000&sideNums=000&dates=999" alt="GitHub Streak">
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=piotrjura&theme=flat&no-frame=true&no-bg=true&column=6&margin-w=10" alt="Trophies">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=piotrjura&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=10">
+    <img src="https://github-profile-trophy.vercel.app/?username=piotrjura&theme=flat&no-frame=true&no-bg=true&column=6&margin-w=10" alt="Trophies">
+  </picture>
 </p>
 
 ---
