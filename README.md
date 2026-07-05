@@ -1,64 +1,40 @@
 <h1 align="center">Hey, I'm Piotr Jura</h1>
 
 <p align="center">
-  <a href="https://github.com/piotrjura?tab=followers">
-    <img src="https://img.shields.io/github/followers/piotrjura?label=Followers&style=social" alt="GitHub followers">
-  </a>
-  <a href="https://github.com/piotrjura?tab=repositories">
-    <img src="https://img.shields.io/github/stars/piotrjura?label=Stars&style=social" alt="GitHub stars">
-  </a>
+  I build tools for developers and AI-driven workflows, and I teach <strong>agentic development</strong> —
+  shipping real, production code with AI coding agents like Claude Code, Cursor &amp; Codex.
 </p>
 
 <p align="center">
-  Open-source developer &bull; building tools for developers and AI workflows
-</p>
-
-<p align="center">
-  <a href="https://github.com/piotr-jura-udemy">Udemy course repos &rarr; <strong>@piotr-jura-udemy</strong></a>
+  <a href="https://agenticdeveloper.dev"><strong>The Agentic Developer&nbsp;&rarr;</strong></a>
+  &bull;
+  <a href="https://agentnotch.app"><strong>AgentNotch&nbsp;&rarr;</strong></a>
+  &bull;
+  <a href="https://www.youtube.com/@the_agenticdeveloper"><strong>YouTube&nbsp;&rarr;</strong></a>
 </p>
 
 ---
 
-## Stats
+## 🚀 The Agentic Developer
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=piotrjura&show_icons=true&hide_border=true&bg_color=00000000&title_color=fff&text_color=ccc&icon_color=888&include_all_commits=true&count_private=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=piotrjura&show_icons=true&hide_border=true&bg_color=00000000&title_color=000&text_color=333&icon_color=666&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=piotrjura&layout=compact&hide_border=true&bg_color=00000000&title_color=fff&text_color=ccc&langs_count=8">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piotrjura&layout=compact&hide_border=true&bg_color=00000000&title_color=000&text_color=333&langs_count=8" height="170" alt="Top Languages">
-  </picture>
-</p>
+I run **[The Agentic Developer](https://agenticdeveloper.dev)** — a newsletter, [YouTube channel](https://www.youtube.com/@the_agenticdeveloper), and [Skool community](https://www.skool.com/the-agentic-developer-1376) about shipping real, production code with AI coding agents. Free tutorials and articles for developers who care about the code they ship.
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=piotrjura&hide_border=true&background=00000000&ring=fff&fire=fff&currStreakLabel=ccc&sideLabels=ccc&currStreakNum=fff&sideNums=fff&dates=888">
-    <img src="https://streak-stats.demolab.com/?user=piotrjura&hide_border=true&background=FFFFFF00&ring=000&fire=000&currStreakLabel=333&sideLabels=333&currStreakNum=000&sideNums=000&dates=999" alt="GitHub Streak">
-  </picture>
-</p>
+## 🖥️ AgentNotch
 
----
+I built **[AgentNotch](https://agentnotch.app)** — a macOS app that keeps all your coding agents (Claude Code, Cursor, Codex) in the notch: live status, alerts, context &amp; token usage, and inline approvals.
 
-## Projects
+## 🛠️ Other things I build
 
-### Developer CLI Tools
+- [**pm**](https://github.com/piotrjura/pm) — project manager for agentic coding (Claude Code, Cursor, etc.)
+- [**marc**](https://github.com/piotrjura/marc) — markdown reader for the terminal
+- [**transcript**](https://github.com/piotrjura/transcript) — transcribe audio/video locally with Whisper, free and offline
+- [**nickel**](https://github.com/piotrjura/nickel) — simple credit-based billing for the AI era
 
-| Project | Description | Stars |
-|---------|-------------|-------|
-| [**pm**](https://github.com/piotrjura/pm) | Project manager for agentic coding (Claude Code, Cursor, etc.) | ![Stars](https://img.shields.io/github/stars/piotrjura/pm?style=flat-square) |
-| [**marc**](https://github.com/piotrjura/marc) | Markdown reader for the terminal | ![Stars](https://img.shields.io/github/stars/piotrjura/marc?style=flat-square) |
-| [**transcript**](https://github.com/piotrjura/transcript) | Transcribe audio/video files locally using Whisper — 100% free and offline | ![Stars](https://img.shields.io/github/stars/piotrjura/transcript?style=flat-square) |
+## Connect
 
-### Libraries
-
-| Project | Description | Stars |
-|---------|-------------|-------|
-| [**nickel**](https://github.com/piotrjura/nickel) | Simple credit-based billing for the AI era | ![Stars](https://img.shields.io/github/stars/piotrjura/nickel?style=flat-square) |
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=piotrjura&style=flat-square&color=grey" alt="Profile views">
-</p>
+- 🌐 [The Agentic Developer](https://agenticdeveloper.dev)
+- 🖥️ [AgentNotch](https://agentnotch.app)
+- ▶️ [YouTube](https://www.youtube.com/@the_agenticdeveloper)
+- 👥 [Skool Community](https://www.skool.com/the-agentic-developer-1376)
+- 🐦 [X / Twitter](https://x.com/piotr_jura)
+- 💼 [LinkedIn](https://www.linkedin.com/in/piotr-j-24250b257/)
